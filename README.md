@@ -1,4 +1,4 @@
-## Hi there
+## Hi there,
 
 I’m Om — an AI Engineer based in India.
 
