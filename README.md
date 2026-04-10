@@ -8,6 +8,6 @@ Currently, I’m building AI projects focused on extracting text and structure f
 
 ## Tools & Tech
 
-* Python, FastAPI.
+* Python, FastAPI
 * LangChain, LangGraph for agent orchestration
 * Docker and vector databases
